@@ -1,0 +1,7219 @@
+.version.index /* version checker */
+{
+	color: #0000F1;
+	background-color: #40D415;
+}
+
+#page
+{
+	z-index: 1;
+	width: 768px;
+	min-height: 499.9891868815321px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-bottom: 4008px;
+	width: 0.01px;/* should not cover content below */
+}
+
+#pu1918
+{
+	width: 0.01px;
+	padding-bottom: 4000px;
+	margin-left: -617px;
+}
+
+#u1918
+{
+	z-index: 4;
+	width: 524px;
+	background-color: transparent;
+	position: fixed;
+	top: 321px;
+	left: 50%;
+	margin-left: -272px;
+}
+
+#u1488
+{
+	z-index: 6;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 0px;
+	left: -617px;
+}
+
+#u2716
+{
+	z-index: 8;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 2000px;
+	left: -617px;
+}
+
+#u1947
+{
+	z-index: 72;
+	width: 505px;
+	background-color: transparent;
+	position: fixed;
+	top: 62px;
+	left: 131px;
+}
+
+#u3195
+{
+	z-index: 190;
+	width: 426px;
+	background-color: transparent;
+	position: fixed;
+	top: 412px;
+	left: 50%;
+	margin-left: -443px;
+}
+
+#u6953
+{
+	z-index: 582;
+	width: 140px;
+	background-color: transparent;
+	position: fixed;
+	top: 537px;
+	left: 560px;
+}
+
+#pamphletu6965
+{
+	z-index: 584;
+	width: 0.01px;
+	height: 600px;
+	position: fixed;
+	top: 35px;
+	left: 78px;
+}
+
+#u6974
+{
+	z-index: 585;
+	width: 79px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 524px;
+	left: 512px;
+}
+
+#u6975
+{
+	position: absolute;
+	width: 79px;
+	height: 76px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u6975
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u6975:hover
+{
+	width: 79px;
+	height: 76px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u6975:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u6975.PamphletThumbSelected
+{
+	width: 79px;
+	height: 76px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u6966popup
+{
+	z-index: 587;
+}
+
+#u6967
+{
+	z-index: 588;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/cavite%20e.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u6968
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 38px;
+	left: 527px;
+}
+
+#u6968:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u6969-4
+{
+	z-index: 590;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#pamphletu6340
+{
+	z-index: 594;
+	width: 0.01px;
+	height: 37px;
+	padding-bottom: 733px;
+	position: fixed;
+	top: 0px;
+	right: 1345px;
+}
+
+#u6341
+{
+	position: absolute;
+	width: 440px;
+	background-color: transparent;
+}
+
+#u6341popup
+{
+	z-index: 595;
+}
+
+#u6342
+{
+	z-index: 596;
+	width: 440px;
+	height: 456px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EDEDED;
+	padding-bottom: 314px;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u6343
+{
+	z-index: 712;
+	width: 41px;
+	height: 37px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #27AAE1;
+	position: relative;
+}
+
+#pbuttonu6370
+{
+	width: 0.01px;
+	margin-top: -1px;
+}
+
+#buttonu6370
+{
+	z-index: 597;
+	width: 220px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 5px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#buttonu6370:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #5FB48E;
+	width: 220px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6373-4
+{
+	z-index: 598;
+	width: 220px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+}
+
+#buttonu6370:hover #u6373-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 220px;
+	margin: 6px -10000px 0px 0px;
+}
+
+#buttonu6719
+{
+	z-index: 657;
+	width: 220px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 5px;
+	position: relative;
+	margin-right: -10000px;
+	left: 220px;
+}
+
+#buttonu6719:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #5FB48E;
+	width: 220px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6720-4
+{
+	z-index: 658;
+	width: 220px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+}
+
+#buttonu6370.ButtonSelected #u6373-4,#buttonu6719:hover #u6720-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 220px;
+	margin: 6px -10000px 0px 0px;
+}
+
+#buttonu6731
+{
+	z-index: 607;
+	width: 220px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 5px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#buttonu6731:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #5FB48E;
+	width: 220px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6732-4
+{
+	z-index: 608;
+	width: 220px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+}
+
+#buttonu6719.ButtonSelected #u6720-4,#buttonu6731:hover #u6732-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 220px;
+	margin: 6px -10000px 0px 0px;
+}
+
+#buttonu6725
+{
+	z-index: 667;
+	width: 219px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 5px;
+	position: relative;
+	margin-right: -10000px;
+	left: 220px;
+}
+
+#buttonu6725:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #5FB48E;
+	width: 219px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6726-4
+{
+	z-index: 668;
+	width: 220px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+}
+
+#buttonu6731.ButtonSelected #u6732-4,#buttonu6725:hover #u6726-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 220px;
+	margin: 6px -10000px 0px 0px;
+}
+
+#buttonu6743
+{
+	z-index: 617;
+	width: 220px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 5px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#buttonu6743:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #5FB48E;
+	width: 220px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6744-4
+{
+	z-index: 618;
+	width: 220px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+}
+
+#buttonu6725.ButtonSelected #u6726-4,#buttonu6743:hover #u6744-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 220px;
+	margin: 6px -10000px 0px 0px;
+}
+
+#buttonu6737
+{
+	z-index: 677;
+	width: 219px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 5px;
+	position: relative;
+	margin-right: -10000px;
+	left: 220px;
+}
+
+#buttonu6737:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #5FB48E;
+	width: 219px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6738-4
+{
+	z-index: 678;
+	width: 219px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+}
+
+#buttonu6737:hover #u6738-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 219px;
+	margin: 6px -10000px 0px 0px;
+}
+
+#buttonu6773
+{
+	z-index: 627;
+	width: 220px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 5px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#buttonu6773:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #5FB48E;
+	width: 220px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6774-4
+{
+	z-index: 628;
+	width: 220px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+}
+
+#buttonu6743.ButtonSelected #u6744-4,#buttonu6773:hover #u6774-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 220px;
+	margin: 6px -10000px 0px 0px;
+}
+
+#buttonu6767
+{
+	z-index: 687;
+	width: 219px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 5px;
+	position: relative;
+	margin-right: -10000px;
+	left: 220px;
+}
+
+#buttonu6767:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #5FB48E;
+	width: 219px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6768-4
+{
+	z-index: 688;
+	width: 219px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+}
+
+#buttonu6737.ButtonSelected #u6738-4,#buttonu6767:hover #u6768-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 219px;
+	margin: 6px -10000px 0px 0px;
+}
+
+#buttonu6791
+{
+	z-index: 642;
+	width: 220px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 5px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#buttonu6791:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #5FB48E;
+	width: 220px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6792-4
+{
+	z-index: 643;
+	width: 220px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+}
+
+#buttonu6773.ButtonSelected #u6774-4,#buttonu6791:hover #u6792-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 220px;
+	margin: 6px -10000px 0px 0px;
+}
+
+#buttonu6797
+{
+	z-index: 702;
+	width: 219px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 5px;
+	position: relative;
+	margin-right: -10000px;
+	left: 220px;
+}
+
+#buttonu6797:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #5FB48E;
+	width: 219px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6798-4
+{
+	z-index: 703;
+	width: 219px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+}
+
+#buttonu6767.ButtonSelected #u6768-4,#buttonu6797:hover #u6798-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 219px;
+	margin: 6px -10000px 0px 0px;
+}
+
+#buttonu6857
+{
+	z-index: 602;
+	width: 220px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 5px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#buttonu6857:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #5FB48E;
+	width: 220px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6858-4
+{
+	z-index: 603;
+	width: 220px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+}
+
+#buttonu6791.ButtonSelected #u6792-4,#buttonu6857:hover #u6858-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 220px;
+	margin: 6px -10000px 0px 0px;
+}
+
+#buttonu6851
+{
+	z-index: 662;
+	width: 219px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 5px;
+	position: relative;
+	margin-right: -10000px;
+	left: 220px;
+}
+
+#buttonu6851:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #5FB48E;
+	width: 219px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6852-4
+{
+	z-index: 663;
+	width: 219px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+}
+
+#buttonu6797.ButtonSelected #u6798-4,#buttonu6851:hover #u6852-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 219px;
+	margin: 6px -10000px 0px 0px;
+}
+
+#buttonu6839
+{
+	z-index: 612;
+	width: 220px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 5px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#buttonu6839:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #5FB48E;
+	width: 220px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6840-4
+{
+	z-index: 613;
+	width: 220px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+}
+
+#buttonu6857.ButtonSelected #u6858-4,#buttonu6839:hover #u6840-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 220px;
+	margin: 6px -10000px 0px 0px;
+}
+
+#buttonu6845
+{
+	z-index: 672;
+	width: 219px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 5px;
+	position: relative;
+	margin-right: -10000px;
+	left: 220px;
+}
+
+#buttonu6845:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #5FB48E;
+	width: 219px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6846-4
+{
+	z-index: 673;
+	width: 219px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+}
+
+#buttonu6851.ButtonSelected #u6852-4,#buttonu6845:hover #u6846-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 219px;
+	margin: 6px -10000px 0px 0px;
+}
+
+#buttonu6833
+{
+	z-index: 622;
+	width: 220px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 5px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#buttonu6833:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #5FB48E;
+	width: 220px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6834-4
+{
+	z-index: 623;
+	width: 220px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+}
+
+#buttonu6839.ButtonSelected #u6840-4,#buttonu6833:hover #u6834-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 220px;
+	margin: 6px -10000px 0px 0px;
+}
+
+#buttonu6827
+{
+	z-index: 682;
+	width: 220px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 5px;
+	position: relative;
+	margin-right: -10000px;
+	left: 220px;
+}
+
+#buttonu6827:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #5FB48E;
+	width: 220px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6828-4
+{
+	z-index: 683;
+	width: 219px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+}
+
+#buttonu6845.ButtonSelected #u6846-4,#buttonu6827:hover #u6828-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 219px;
+	margin: 6px -10000px 0px 0px;
+}
+
+#buttonu6815
+{
+	z-index: 632;
+	width: 220px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 5px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#buttonu6815:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #5FB48E;
+	width: 220px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6816-4
+{
+	z-index: 633;
+	width: 209px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+}
+
+#buttonu6815:hover #u6816-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 209px;
+	margin: 6px -10000px 0px 0px;
+}
+
+#buttonu6815.ButtonSelected #u6816-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 209px;
+	margin: 6px -10000px 0px 0px;
+}
+
+#buttonu6821
+{
+	z-index: 692;
+	width: 219px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 5px;
+	position: relative;
+	margin-right: -10000px;
+	left: 220px;
+}
+
+#buttonu6821:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #5FB48E;
+	width: 219px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#buttonu6725.ButtonSelected,#buttonu6737.ButtonSelected,#buttonu6767.ButtonSelected,#buttonu6797.ButtonSelected,#buttonu6851.ButtonSelected,#buttonu6845.ButtonSelected,#buttonu6821.ButtonSelected
+{
+	background-color: transparent;
+	width: 219px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6822-4
+{
+	z-index: 693;
+	width: 219px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+}
+
+#buttonu6827.ButtonSelected #u6828-4,#buttonu6821:hover #u6822-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 219px;
+	margin: 6px -10000px 0px 0px;
+}
+
+#buttonu6821.ButtonSelected #u6822-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 219px;
+	margin: 6px -10000px 0px 0px;
+}
+
+#buttonu6809
+{
+	z-index: 647;
+	width: 220px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 5px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#buttonu6809:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #5FB48E;
+	width: 220px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6810-4
+{
+	z-index: 648;
+	width: 220px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+}
+
+#buttonu6833.ButtonSelected #u6834-4,#buttonu6809:hover #u6810-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 220px;
+	margin: 6px -10000px 0px 0px;
+}
+
+#buttonu6803
+{
+	z-index: 707;
+	width: 220px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 5px;
+	position: relative;
+	margin-right: -10000px;
+	left: 220px;
+}
+
+#buttonu6803:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #5FB48E;
+	width: 220px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6804-4
+{
+	z-index: 708;
+	width: 220px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+}
+
+#buttonu6809.ButtonSelected #u6810-4,#buttonu6803:hover #u6804-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 220px;
+	margin: 6px -10000px 0px 0px;
+}
+
+#pbuttonu6731,#pbuttonu6743,#pbuttonu6773,#pbuttonu6791,#pbuttonu6857,#pbuttonu6839,#pbuttonu6833,#pbuttonu6815,#pbuttonu6809,#pbuttonu6863
+{
+	width: 0.01px;
+}
+
+#buttonu6863
+{
+	z-index: 637;
+	width: 220px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 5px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#buttonu6863:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #5FB48E;
+	width: 220px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6864-4
+{
+	z-index: 638;
+	width: 220px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+}
+
+#buttonu6803.ButtonSelected #u6804-4,#buttonu6863:hover #u6864-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 220px;
+	margin: 6px -10000px 0px 0px;
+}
+
+#buttonu6869
+{
+	z-index: 697;
+	width: 220px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 5px;
+	position: relative;
+	margin-right: -10000px;
+	left: 220px;
+}
+
+#buttonu6869:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #5FB48E;
+	width: 220px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#buttonu6370.ButtonSelected,#buttonu6719.ButtonSelected,#buttonu6731.ButtonSelected,#buttonu6743.ButtonSelected,#buttonu6773.ButtonSelected,#buttonu6791.ButtonSelected,#buttonu6857.ButtonSelected,#buttonu6839.ButtonSelected,#buttonu6833.ButtonSelected,#buttonu6827.ButtonSelected,#buttonu6815.ButtonSelected,#buttonu6809.ButtonSelected,#buttonu6803.ButtonSelected,#buttonu6863.ButtonSelected,#buttonu6869.ButtonSelected
+{
+	background-color: transparent;
+	width: 220px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6870-4
+{
+	z-index: 698;
+	width: 220px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+}
+
+#buttonu6863.ButtonSelected #u6864-4,#buttonu6869:hover #u6870-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 220px;
+	margin: 6px -10000px 0px 0px;
+}
+
+#buttonu6875
+{
+	z-index: 652;
+	width: 220px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 5px;
+	position: relative;
+}
+
+#buttonu6875:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #5FB48E;
+	width: 220px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#buttonu6875.ButtonSelected
+{
+	background-color: transparent;
+	width: 220px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u6876-4
+{
+	z-index: 653;
+	width: 220px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+}
+
+#buttonu6869.ButtonSelected #u6870-4,#buttonu6875:hover #u6876-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 220px;
+	margin: 6px -10000px 0px 0px;
+}
+
+#buttonu6875.ButtonSelected #u6876-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 220px;
+	margin: 6px -10000px 0px 0px;
+}
+
+#u6373-2,#u6720-2,#u6732-2,#u6726-2,#u6744-2,#u6738-2,#u6774-2,#u6768-2,#u6792-2,#u6798-2,#u6858-2,#u6852-2,#u6840-2,#u6846-2,#u6834-2,#u6828-2,#u6816-2,#u6822-2,#u6810-2,#u6804-2,#u6864-2,#u6870-2,#u6876-2
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u6373,#u6720,#u6732,#u6726,#u6744,#u6738,#u6774,#u6768,#u6792,#u6798,#u6858,#u6852,#u6840,#u6846,#u6834,#u6828,#u6816,#u6822,#u6810,#u6804,#u6864,#u6870,#u6876
+{
+	line-height: 19px;
+}
+
+#u6381
+{
+	z-index: 713;
+	width: 40px;
+	padding-bottom: 37px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u6382
+{
+	width: 40px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #27AAE1;
+	padding-bottom: 2px;
+	position: fixed;
+	top: 0px;
+	right: 1305px;
+}
+
+#u6382.PamphletThumbSelected
+{
+	border-width: 0px;
+	border-color: transparent;
+	width: 40px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u6383
+{
+	z-index: 715;
+	width: 35px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 2px;
+}
+
+#u6382.PamphletThumbSelected #u6383
+{
+	width: 35px;
+	min-height: 0px;
+	margin: 5px -10000px 0px 0px;
+}
+
+#u6378
+{
+	position: absolute;
+	width: 41px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #BA4423;
+	padding-bottom: 3px;
+	top: 1px;
+}
+
+#u6379
+{
+	z-index: 718;
+	width: 31px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 5px;
+}
+
+#cavite
+{
+	margin-left: 857px;
+	top: -2000px;
+	margin-bottom: -18px;
+	position: relative;
+}
+
+#u2924
+{
+	z-index: 152;
+	width: 528px;
+	background-color: transparent;
+	position: fixed;
+	top: 2056px;
+	left: 857px;
+}
+
+#u1498
+{
+	z-index: 12;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 4000px;
+	left: -617px;
+}
+
+#u1986
+{
+	z-index: 74;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 4007px;
+	left: -617px;
+}
+
+#pamphletu3331
+{
+	z-index: 192;
+	width: 0.01px;
+	height: 415px;
+	padding-bottom: 185px;
+	position: fixed;
+	top: 4036px;
+	left: -564px;
+}
+
+#u3338
+{
+	z-index: 193;
+	width: 1105px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 163px;
+}
+
+#u3339
+{
+	position: absolute;
+	width: 1105px;
+	height: 252px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u6975.PamphletThumbSelected,.ie #u3339
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3339:hover
+{
+	width: 1105px;
+	height: 252px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u3339:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3339.PamphletThumbSelected
+{
+	width: 1105px;
+	height: 252px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3340
+{
+	position: absolute;
+	width: 600px;
+	background-color: transparent;
+	left: 264px;
+}
+
+#u3340popup
+{
+	z-index: 195;
+}
+
+#u3341
+{
+	z-index: 196;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_corregidor%20island.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u3332
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 39px;
+	left: 791px;
+}
+
+#u3332:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3333-4
+{
+	z-index: 198;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#pamphletu3372
+{
+	z-index: 202;
+	width: 0.01px;
+	height: 405px;
+	padding-bottom: 195px;
+	position: fixed;
+	top: 4036px;
+	left: 576px;
+}
+
+#u3373
+{
+	z-index: 203;
+	width: 255px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 271px;
+	left: 161px;
+}
+
+#u3374
+{
+	position: absolute;
+	width: 255px;
+	height: 134px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u3339.PamphletThumbSelected,.ie #u3374
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3374:hover
+{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #999999;
+	width: 254px;
+	height: 133px;
+	min-height: 0px;
+	margin: 0px -1px -1px 0px;
+}
+
+.ie #u3374:hover
+{
+	opacity: 1;
+	-ms-filter: "";
+	filter: none;
+	background-color: transparent;
+}
+
+#u3374.PamphletThumbSelected
+{
+	border-width: 0px;
+	border-color: transparent;
+	width: 255px;
+	height: 134px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3375popup
+{
+	z-index: 205;
+}
+
+#u3376
+{
+	z-index: 206;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_malinta%20tunnel.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u3377
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 39px;
+	left: 527px;
+}
+
+#u3377:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3378-4
+{
+	z-index: 208;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#u1505
+{
+	z-index: 16;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 6000px;
+	left: -617px;
+}
+
+#noveleta
+{
+	margin-left: 160px;
+	margin-top: 2000px;
+	position: relative;
+}
+
+#pamphletu3413
+{
+	z-index: 212;
+	width: 0.01px;
+	height: 442px;
+	padding-bottom: 158px;
+	position: fixed;
+	top: 6036px;
+	left: -580px;
+}
+
+#u3414
+{
+	z-index: 213;
+	width: 144px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 68px;
+	left: 266px;
+}
+
+#u3415
+{
+	position: absolute;
+	width: 144px;
+	height: 374px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u3374.PamphletThumbSelected,.ie #u3415
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3415:hover
+{
+	width: 144px;
+	height: 374px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u3415:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3415.PamphletThumbSelected
+{
+	width: 144px;
+	height: 374px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3416popup
+{
+	z-index: 215;
+}
+
+#u3417
+{
+	z-index: 216;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_belfry%20of%20recoletos%20church%20.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u3418
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 39px;
+	left: 527px;
+}
+
+#u3418:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3419-4
+{
+	z-index: 218;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#pamphletu3424
+{
+	z-index: 222;
+	width: 0.01px;
+	height: 421px;
+	padding-bottom: 179px;
+	position: fixed;
+	top: 6037px;
+	left: 669px;
+}
+
+#u3433
+{
+	z-index: 223;
+	width: 378px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 197px;
+	left: 120px;
+}
+
+#u3434
+{
+	position: absolute;
+	width: 378px;
+	height: 224px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u3415.PamphletThumbSelected,.ie #u3434
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3434:hover
+{
+	width: 378px;
+	height: 224px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u3434:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3434.PamphletThumbSelected
+{
+	width: 378px;
+	height: 224px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3431popup
+{
+	z-index: 225;
+}
+
+#u3432
+{
+	z-index: 226;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_tribunal%20ng%20noveleta.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u3425
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 38px;
+	left: 527px;
+}
+
+#u3425:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3426-4
+{
+	z-index: 228;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#u2026
+{
+	z-index: 78;
+	width: 864px;
+	background-color: transparent;
+	position: fixed;
+	top: 6063px;
+	left: 538px;
+}
+
+#u2016
+{
+	z-index: 76;
+	width: 748px;
+	background-color: transparent;
+	position: fixed;
+	top: 6082px;
+	left: -616px;
+}
+
+#u3008
+{
+	z-index: 176;
+	width: 448px;
+	background-color: transparent;
+	position: fixed;
+	top: 6124px;
+	left: 160px;
+}
+
+#u1512
+{
+	z-index: 26;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 8000px;
+	left: -617px;
+}
+
+#pkawit
+{
+	width: 0.01px;
+	margin-left: -402px;
+	margin-top: 1984px;
+}
+
+#bacoor
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	left: 1428px;
+}
+
+#pamphletu3495
+{
+	z-index: 232;
+	width: 0.01px;
+	height: 450px;
+	padding-bottom: 150px;
+	position: fixed;
+	top: 8034px;
+	left: 66px;
+}
+
+#u3498
+{
+	z-index: 233;
+	width: 648px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 43px;
+}
+
+#u3499
+{
+	position: absolute;
+	width: 648px;
+	height: 407px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u3434.PamphletThumbSelected,.ie #u3499
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3499:hover
+{
+	width: 648px;
+	height: 407px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u3499:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3499.PamphletThumbSelected
+{
+	width: 648px;
+	height: 407px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3502
+{
+	position: absolute;
+	width: 600px;
+	background-color: transparent;
+	left: 48px;
+}
+
+#u3502popup
+{
+	z-index: 235;
+}
+
+#u3503
+{
+	z-index: 236;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_aguinaldo%20shrine.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u3496
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 39px;
+	left: 574px;
+}
+
+#u3496:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3497-4
+{
+	z-index: 238;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#u2036
+{
+	z-index: 80;
+	width: 864px;
+	background-color: transparent;
+	position: fixed;
+	top: 8051px;
+	left: -48px;
+}
+
+#u2973
+{
+	z-index: 166;
+	width: 285px;
+	background-color: transparent;
+	position: fixed;
+	top: 8063px;
+	left: -402px;
+}
+
+#u2910
+{
+	z-index: 148;
+	width: 359px;
+	background-color: transparent;
+	position: fixed;
+	top: 8063px;
+	left: 1026px;
+}
+
+#u1519
+{
+	z-index: 36;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 10000px;
+	left: -617px;
+}
+
+#pamphletu3569
+{
+	z-index: 242;
+	width: 0.01px;
+	height: 439px;
+	padding-bottom: 161px;
+	position: fixed;
+	top: 10033px;
+	left: -356px;
+}
+
+#u3572
+{
+	z-index: 243;
+	width: 354px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 225px;
+	left: 114px;
+}
+
+#u3573
+{
+	position: absolute;
+	width: 354px;
+	height: 214px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u3499.PamphletThumbSelected,.ie #u3573
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3573:hover
+{
+	width: 354px;
+	height: 214px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u3573:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3573.PamphletThumbSelected
+{
+	width: 354px;
+	height: 214px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3576popup
+{
+	z-index: 245;
+}
+
+#u3577
+{
+	z-index: 246;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_bahay%20na%20tisa.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u3570
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 39px;
+	left: 527px;
+}
+
+#u3570:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3571-4
+{
+	z-index: 248;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#pamphletu3580
+{
+	z-index: 252;
+	width: 0.01px;
+	height: 453px;
+	padding-bottom: 147px;
+	position: fixed;
+	top: 10033px;
+	left: 590px;
+}
+
+#u3587
+{
+	z-index: 253;
+	width: 424px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 53px;
+	left: 58px;
+}
+
+#u3588
+{
+	position: absolute;
+	width: 424px;
+	height: 400px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u3573.PamphletThumbSelected,.ie #u3588
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3588:hover
+{
+	width: 424px;
+	height: 400px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u3588:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3588.PamphletThumbSelected
+{
+	width: 424px;
+	height: 400px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3583popup
+{
+	z-index: 255;
+}
+
+#u3584
+{
+	z-index: 256;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_st%20michael%20archangel%20parish%20church%20.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u3585
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 39px;
+	left: 527px;
+}
+
+#u3585:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3586-4
+{
+	z-index: 258;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#u2054
+{
+	z-index: 84;
+	width: 864px;
+	background-color: transparent;
+	position: fixed;
+	top: 10049px;
+	left: 433px;
+}
+
+#u2046
+{
+	z-index: 82;
+	width: 864px;
+	background-color: transparent;
+	position: fixed;
+	top: 10104px;
+	left: -488px;
+}
+
+#u1526
+{
+	z-index: 46;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 12000px;
+	left: -617px;
+}
+
+#u3159
+{
+	z-index: 70;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 12000px;
+	left: -617px;
+}
+
+#pamphletu3651
+{
+	z-index: 262;
+	width: 0.01px;
+	height: 430px;
+	padding-bottom: 170px;
+	position: fixed;
+	top: 12034px;
+	left: -64px;
+}
+
+#u3654
+{
+	z-index: 263;
+	width: 464px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 158px;
+	left: 22px;
+}
+
+#u3655
+{
+	position: absolute;
+	width: 464px;
+	height: 272px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u3588.PamphletThumbSelected,.ie #u3655
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3655:hover
+{
+	width: 464px;
+	height: 272px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u3655:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3655.PamphletThumbSelected
+{
+	width: 464px;
+	height: 272px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3658popup
+{
+	z-index: 265;
+}
+
+#u3659
+{
+	z-index: 266;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_our%20lady%20of%20the%20pillar.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u3652
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 39px;
+	left: 527px;
+}
+
+#u3652:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3653-4
+{
+	z-index: 268;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#pimus
+{
+	width: 0.01px;
+	margin-left: -570px;
+	margin-top: 4018px;
+}
+
+#dasmarinas
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	left: 1375px;
+}
+
+#u2931
+{
+	z-index: 154;
+	width: 579px;
+	background-color: transparent;
+	position: fixed;
+	top: 12063px;
+	left: 805px;
+}
+
+#u2959
+{
+	z-index: 162;
+	width: 400px;
+	background-color: transparent;
+	position: fixed;
+	top: 12123px;
+	left: -570px;
+}
+
+#u2066
+{
+	z-index: 86;
+	width: 864px;
+	background-color: transparent;
+	position: fixed;
+	top: 12126px;
+	left: -222px;
+}
+
+#u1554
+{
+	z-index: 10;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 14000px;
+	left: -617px;
+}
+
+#pamphletu3725
+{
+	z-index: 272;
+	width: 0.01px;
+	height: 457px;
+	padding-bottom: 143px;
+	position: fixed;
+	top: 14035px;
+	left: -469px;
+}
+
+#u3728
+{
+	z-index: 273;
+	width: 338px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 125px;
+	left: 131px;
+}
+
+#u3729
+{
+	position: absolute;
+	width: 338px;
+	height: 332px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u3655.PamphletThumbSelected,.ie #u3729
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3729:hover
+{
+	width: 338px;
+	height: 332px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u3729:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3729.PamphletThumbSelected
+{
+	width: 338px;
+	height: 332px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3732popup
+{
+	z-index: 275;
+}
+
+#u3733
+{
+	z-index: 276;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_immaculate%20conception%20parish%20church.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u3726
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 39px;
+	left: 527px;
+}
+
+#u3726:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3727-4
+{
+	z-index: 278;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#pamphletu3736
+{
+	z-index: 282;
+	width: 0.01px;
+	height: 428px;
+	padding-bottom: 172px;
+	position: fixed;
+	top: 14035px;
+	left: 678px;
+}
+
+#u3743
+{
+	z-index: 283;
+	width: 542px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 206px;
+	left: 26px;
+}
+
+#u3744
+{
+	position: absolute;
+	width: 542px;
+	height: 222px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u3729.PamphletThumbSelected,.ie #u3744
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3744:hover
+{
+	width: 542px;
+	height: 222px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u3744:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3744.PamphletThumbSelected
+{
+	width: 542px;
+	height: 222px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3739popup
+{
+	z-index: 285;
+}
+
+#u3740
+{
+	z-index: 286;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_museo%20de%20la%20salle%20.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u3741
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 39px;
+	left: 527px;
+}
+
+#u3741:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3742-4
+{
+	z-index: 288;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#u2076
+{
+	z-index: 88;
+	width: 864px;
+	background-color: transparent;
+	position: fixed;
+	top: 14042px;
+	left: -617px;
+}
+
+#u2084
+{
+	z-index: 90;
+	width: 864px;
+	background-color: transparent;
+	position: fixed;
+	top: 14137px;
+	left: 421px;
+}
+
+#u1540
+{
+	z-index: 14;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 16000px;
+	left: -617px;
+}
+
+#u2945
+{
+	z-index: 158;
+	width: 419px;
+	background-color: transparent;
+	position: fixed;
+	top: 16033px;
+	left: -486px;
+}
+
+#gma
+{
+	left: -486px;
+	margin-top: 3977px;
+	position: relative;
+}
+
+#pamphletu3807
+{
+	z-index: 292;
+	width: 0.01px;
+	height: 515px;
+	padding-bottom: 85px;
+	position: fixed;
+	top: 16034px;
+	left: 0px;
+}
+
+#u3810
+{
+	z-index: 293;
+	width: 768px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 170px;
+}
+
+#u3811
+{
+	position: absolute;
+	width: 768px;
+	height: 345px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u3744.PamphletThumbSelected,.ie #u3811
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3811:hover
+{
+	width: 768px;
+	height: 345px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u3811:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3811.PamphletThumbSelected
+{
+	width: 768px;
+	height: 345px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3814
+{
+	position: absolute;
+	width: 600px;
+	background-color: transparent;
+	left: 84px;
+}
+
+#u3814popup
+{
+	z-index: 295;
+}
+
+#u3815
+{
+	z-index: 296;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_kabutenyo%20festival%20.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u3808
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 38px;
+	left: 610px;
+}
+
+#u3808:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3809-4
+{
+	z-index: 298;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#u2096
+{
+	z-index: 92;
+	width: 727px;
+	background-color: transparent;
+	position: fixed;
+	top: 16169px;
+	left: 197px;
+}
+
+#u1561
+{
+	z-index: 2;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 18000px;
+	left: -617px;
+}
+
+#u2106
+{
+	z-index: 62;
+	width: 2000px;
+	background-color: transparent;
+	position: fixed;
+	top: 17999px;
+	left: -617px;
+}
+
+#u3135
+{
+	z-index: 64;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 18000px;
+	left: -616px;
+}
+
+#pamphletu3947
+{
+	z-index: 302;
+	width: 0.01px;
+	height: 506px;
+	padding-bottom: 94px;
+	position: fixed;
+	top: 18032px;
+	left: -146px;
+}
+
+#u3950
+{
+	z-index: 303;
+	width: 1060px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 380px;
+}
+
+#u3951
+{
+	position: absolute;
+	width: 1060px;
+	height: 126px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u3811.PamphletThumbSelected,.ie #u3951
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3951:hover
+{
+	width: 1060px;
+	height: 126px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u3951:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3951.PamphletThumbSelected
+{
+	width: 1060px;
+	height: 126px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3954
+{
+	position: absolute;
+	width: 600px;
+	background-color: transparent;
+	left: 122px;
+}
+
+#u3954popup
+{
+	z-index: 305;
+}
+
+#u3955
+{
+	z-index: 306;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_racing%20circuit.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u3948
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 38px;
+	left: 649px;
+}
+
+#u3948:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3949-4
+{
+	z-index: 308;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#pamphletu3958
+{
+	z-index: 312;
+	width: 0.01px;
+	height: 372px;
+	padding-bottom: 228px;
+	position: fixed;
+	top: 18032px;
+	left: 742px;
+}
+
+#u3965
+{
+	z-index: 313;
+	width: 456px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 11px;
+	left: 106px;
+}
+
+#u3966
+{
+	position: absolute;
+	width: 456px;
+	height: 361px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u3951.PamphletThumbSelected,.ie #u3966
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3966:hover
+{
+	width: 456px;
+	height: 361px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u3966:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3966.PamphletThumbSelected
+{
+	width: 456px;
+	height: 361px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3961popup
+{
+	z-index: 315;
+}
+
+#u3962
+{
+	z-index: 316;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_paragliding.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u3963
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 38px;
+	left: 527px;
+}
+
+#u3963:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3964-4
+{
+	z-index: 318;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#carmona
+{
+	left: -601px;
+	margin-top: 1992px;
+	position: relative;
+}
+
+#u2116
+{
+	z-index: 94;
+	width: 530px;
+	background-color: transparent;
+	position: fixed;
+	top: 18043px;
+	left: 812px;
+}
+
+#u2917
+{
+	z-index: 150;
+	width: 449px;
+	background-color: transparent;
+	position: fixed;
+	top: 18123px;
+	left: -611px;
+}
+
+#u1568
+{
+	z-index: 28;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 20000px;
+	left: -617px;
+}
+
+#psilang
+{
+	width: 0.01px;
+	margin-left: -449px;
+	margin-top: 1969px;
+}
+
+#gentri
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	left: 1400px;
+}
+
+#pu2126
+{
+	width: 0.01px;
+	padding-bottom: 666px;
+	margin-left: -190px;
+	margin-top: -18px;
+}
+
+#u2126
+{
+	z-index: 96;
+	width: 1141px;
+	background-color: transparent;
+	position: fixed;
+	top: 20030px;
+	left: -190px;
+}
+
+#u2952
+{
+	z-index: 160;
+	width: 432px;
+	background-color: transparent;
+	position: fixed;
+	top: 20038px;
+	left: 952px;
+}
+
+#pamphletu4029
+{
+	z-index: 322;
+	width: 0.01px;
+	height: 481px;
+	padding-bottom: 119px;
+	position: fixed;
+	top: 20032px;
+	left: 66px;
+}
+
+#u4032
+{
+	z-index: 323;
+	width: 604px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 247px;
+}
+
+#u4033
+{
+	position: absolute;
+	width: 604px;
+	height: 234px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u3966.PamphletThumbSelected,.ie #u4033
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4033:hover
+{
+	width: 604px;
+	height: 234px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u4033:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4033.PamphletThumbSelected
+{
+	width: 604px;
+	height: 234px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4036popup
+{
+	z-index: 325;
+}
+
+#u4037
+{
+	z-index: 326;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_ilog%20maria%20honeybee%20farm.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u4030
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 39px;
+	left: 545px;
+}
+
+#u4030:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4031-4
+{
+	z-index: 328;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#u3022
+{
+	z-index: 180;
+	width: 323px;
+	background-color: transparent;
+	position: fixed;
+	top: 20098px;
+	left: -449px;
+}
+
+#u1533
+{
+	z-index: 38;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 22000px;
+	left: -617px;
+}
+
+#pamphletu4103
+{
+	z-index: 332;
+	width: 0.01px;
+	height: 440px;
+	padding-bottom: 160px;
+	position: fixed;
+	top: 22035px;
+	left: -390px;
+}
+
+#u4106
+{
+	z-index: 333;
+	width: 685px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 238px;
+}
+
+#u4107
+{
+	position: absolute;
+	width: 685px;
+	height: 202px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u4033.PamphletThumbSelected,.ie #u4107
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4107:hover
+{
+	width: 685px;
+	height: 202px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u4107:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4107.PamphletThumbSelected
+{
+	width: 685px;
+	height: 202px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4110
+{
+	position: absolute;
+	width: 600px;
+	background-color: transparent;
+	left: 42px;
+}
+
+#u4110popup
+{
+	z-index: 335;
+}
+
+#u4111
+{
+	z-index: 336;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_gbr%20museum.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u4112
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 39px;
+	left: 569px;
+}
+
+#u4112:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4113-4
+{
+	z-index: 338;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#pamphletu4114
+{
+	z-index: 342;
+	width: 0.01px;
+	height: 420px;
+	padding-bottom: 180px;
+	position: fixed;
+	top: 22035px;
+	left: 571px;
+}
+
+#u4115
+{
+	z-index: 343;
+	width: 357px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 125px;
+	left: 114px;
+}
+
+#u4116
+{
+	position: absolute;
+	width: 357px;
+	height: 295px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u4107.PamphletThumbSelected,.ie #u4116
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4116:hover
+{
+	width: 357px;
+	height: 295px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u4116:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4116.PamphletThumbSelected
+{
+	width: 357px;
+	height: 295px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4119popup
+{
+	z-index: 345;
+}
+
+#u4120
+{
+	z-index: 346;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_st%20francis%20of%20.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u4121
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 39px;
+	left: 527px;
+}
+
+#u4121:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4122-4
+{
+	z-index: 348;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#u2144
+{
+	z-index: 100;
+	width: 864px;
+	background-color: transparent;
+	position: fixed;
+	top: 22045px;
+	left: 363px;
+}
+
+#u2136
+{
+	z-index: 98;
+	width: 864px;
+	background-color: transparent;
+	position: fixed;
+	top: 22069px;
+	left: -508px;
+}
+
+#u1547
+{
+	z-index: 48;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 24000px;
+	left: -617px;
+}
+
+#prosario
+{
+	width: 0.01px;
+	margin-left: -502px;
+	margin-top: 3336px;
+}
+
+#kawit,#imus,#silang,#rosario
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+}
+
+#tanza
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	left: 1528px;
+}
+
+#pamphletu4185
+{
+	z-index: 352;
+	width: 0.01px;
+	height: 452px;
+	padding-bottom: 148px;
+	position: fixed;
+	top: 24035px;
+	left: 39px;
+}
+
+#u4188
+{
+	z-index: 353;
+	width: 378px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 177px;
+	left: 99px;
+}
+
+#u4189
+{
+	position: absolute;
+	width: 378px;
+	height: 275px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u4116.PamphletThumbSelected,.ie #u4189
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4189:hover
+{
+	width: 378px;
+	height: 275px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u4189:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4189.PamphletThumbSelected
+{
+	width: 378px;
+	height: 275px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4192popup
+{
+	z-index: 355;
+}
+
+#u4193
+{
+	z-index: 356;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_tejeros%20convention%20.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u4194
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 39px;
+	left: 527px;
+}
+
+#u4194:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4195-4
+{
+	z-index: 358;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#u3015
+{
+	z-index: 178;
+	width: 388px;
+	background-color: transparent;
+	position: fixed;
+	top: 24054px;
+	left: -502px;
+}
+
+#u3036
+{
+	z-index: 184;
+	width: 350px;
+	background-color: transparent;
+	position: fixed;
+	top: 24054px;
+	left: 1026px;
+}
+
+#u2156
+{
+	z-index: 102;
+	width: 864px;
+	background-color: transparent;
+	position: fixed;
+	top: 24069px;
+	left: -125px;
+}
+
+#u1596
+{
+	z-index: 18;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 26000px;
+	left: -617px;
+}
+
+#u2166
+{
+	z-index: 104;
+	width: 864px;
+	background-color: transparent;
+	position: fixed;
+	top: 26029px;
+	left: -550px;
+}
+
+#trece
+{
+	margin-left: 947px;
+	margin-top: 1979px;
+	position: relative;
+}
+
+#pamphletu4259
+{
+	z-index: 362;
+	width: 0.01px;
+	height: 443px;
+	padding-bottom: 157px;
+	position: fixed;
+	top: 26035px;
+	left: -392px;
+}
+
+#u4266
+{
+	z-index: 363;
+	width: 315px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 121px;
+	left: 126px;
+}
+
+#u4267
+{
+	position: absolute;
+	width: 315px;
+	height: 322px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u4189.PamphletThumbSelected,.ie #u4267
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4267:hover
+{
+	width: 315px;
+	height: 322px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u4267:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4267.PamphletThumbSelected
+{
+	width: 315px;
+	height: 322px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4262popup
+{
+	z-index: 365;
+}
+
+#u4263
+{
+	z-index: 366;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_sta%20cruz%20parish%20church%20.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u4268
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 39px;
+	left: 527px;
+}
+
+#u4268:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4269-4
+{
+	z-index: 368;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#u3050
+{
+	z-index: 188;
+	width: 434px;
+	background-color: transparent;
+	position: fixed;
+	top: 26070px;
+	left: 947px;
+}
+
+#u1589
+{
+	z-index: 30;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 28000px;
+	left: -617px;
+}
+
+#pamphletu4300
+{
+	z-index: 372;
+	width: 0.01px;
+	height: 430px;
+	padding-bottom: 170px;
+	position: fixed;
+	top: 28034px;
+	left: -190px;
+}
+
+#u4307
+{
+	z-index: 373;
+	width: 1156px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 139px;
+}
+
+#u4308
+{
+	position: absolute;
+	width: 1156px;
+	height: 291px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u4267.PamphletThumbSelected,.ie #u4308
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4308:hover
+{
+	width: 1156px;
+	height: 291px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u4308:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4308.PamphletThumbSelected
+{
+	width: 1156px;
+	height: 291px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4303
+{
+	position: absolute;
+	width: 600px;
+	background-color: transparent;
+	left: 274px;
+}
+
+#u4303popup
+{
+	z-index: 375;
+}
+
+#u4304
+{
+	z-index: 376;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_cavite%20provincial%20.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u4309
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 39px;
+	left: 801px;
+}
+
+#u4309:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4310-4
+{
+	z-index: 378;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#u2176
+{
+	z-index: 106;
+	width: 1550px;
+	background-color: transparent;
+	position: fixed;
+	top: 28041px;
+	left: -391px;
+}
+
+#u1582
+{
+	z-index: 40;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 30000px;
+	left: -617px;
+}
+
+#u2196
+{
+	z-index: 110;
+	width: 864px;
+	background-color: transparent;
+	position: fixed;
+	top: 30018px;
+	left: 571px;
+}
+
+#pamphletu4341
+{
+	z-index: 382;
+	width: 0.01px;
+	height: 440px;
+	padding-bottom: 160px;
+	position: fixed;
+	top: 30033px;
+	left: -561px;
+}
+
+#u4348
+{
+	z-index: 383;
+	width: 378px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 165px;
+	left: 89px;
+}
+
+#u4349
+{
+	position: absolute;
+	width: 378px;
+	height: 275px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u4308.PamphletThumbSelected,.ie #u4349
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4349:hover
+{
+	width: 378px;
+	height: 275px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u4349:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4349.PamphletThumbSelected
+{
+	width: 378px;
+	height: 275px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4344popup
+{
+	z-index: 385;
+}
+
+#u4345
+{
+	z-index: 386;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_republic%20of%20cavite%20restaurant%20.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u4350
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 38px;
+	left: 527px;
+}
+
+#u4350:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4351-4
+{
+	z-index: 388;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#pamphletu4374
+{
+	z-index: 392;
+	width: 0.01px;
+	height: 424px;
+	padding-bottom: 176px;
+	position: fixed;
+	top: 30033px;
+	left: 677px;
+}
+
+#u4381
+{
+	z-index: 393;
+	width: 378px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 55px;
+	left: 111px;
+}
+
+#u4382
+{
+	position: absolute;
+	width: 378px;
+	height: 369px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u4349.PamphletThumbSelected,.ie #u4382
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4382:hover
+{
+	width: 378px;
+	height: 369px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u4382:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4382.PamphletThumbSelected
+{
+	width: 378px;
+	height: 369px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4377popup
+{
+	z-index: 395;
+}
+
+#u4378
+{
+	z-index: 396;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_diocesan%20shrine%20of%20.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u4383
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 38px;
+	left: 527px;
+}
+
+#u4383:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4384-4
+{
+	z-index: 398;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#u2184
+{
+	z-index: 108;
+	width: 864px;
+	background-color: transparent;
+	position: fixed;
+	top: 30041px;
+	left: -766px;
+}
+
+#naic
+{
+	margin-left: 364px;
+	margin-top: 3994px;
+	position: relative;
+}
+
+#u3001
+{
+	z-index: 174;
+	width: 285px;
+	background-color: transparent;
+	position: fixed;
+	top: 30060px;
+	left: 364px;
+}
+
+#u1575
+{
+	z-index: 56;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 32000px;
+	left: -617px;
+}
+
+#u3142
+{
+	z-index: 66;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 32000px;
+	left: -617px;
+}
+
+#indang
+{
+	left: -164px;
+	margin-top: 1977px;
+	position: relative;
+}
+
+#pamphletu4423
+{
+	z-index: 402;
+	width: 0.01px;
+	height: 430px;
+	padding-bottom: 170px;
+	position: fixed;
+	top: 32035px;
+	left: 532px;
+}
+
+#u4430
+{
+	z-index: 403;
+	width: 454px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 196px;
+	left: 59px;
+}
+
+#u4431
+{
+	position: absolute;
+	width: 454px;
+	height: 234px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u4382.PamphletThumbSelected,.ie #u4431
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4431:hover
+{
+	width: 454px;
+	height: 234px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u4431:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4431.PamphletThumbSelected
+{
+	width: 454px;
+	height: 234px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4426popup
+{
+	z-index: 405;
+}
+
+#u4427
+{
+	z-index: 406;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_malata%20cave.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u4432
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 38px;
+	left: 527px;
+}
+
+#u4432:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4433-4
+{
+	z-index: 408;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#u2966
+{
+	z-index: 164;
+	width: 350px;
+	background-color: transparent;
+	position: fixed;
+	top: 32058px;
+	left: -164px;
+}
+
+#u2206
+{
+	z-index: 112;
+	width: 864px;
+	background-color: transparent;
+	position: fixed;
+	top: 32107px;
+	left: 414px;
+}
+
+#u1666
+{
+	z-index: 50;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 34000px;
+	left: -617px;
+}
+
+#pamphletu4464
+{
+	z-index: 412;
+	width: 0.01px;
+	height: 402px;
+	padding-bottom: 198px;
+	position: fixed;
+	top: 34037px;
+	left: -561px;
+}
+
+#u4471
+{
+	z-index: 413;
+	width: 378px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 127px;
+	left: 93px;
+}
+
+#u4472
+{
+	position: absolute;
+	width: 378px;
+	height: 275px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u4431.PamphletThumbSelected,.ie #u4472
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4472:hover
+{
+	width: 378px;
+	height: 275px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u4472:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4472.PamphletThumbSelected
+{
+	width: 378px;
+	height: 275px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4467popup
+{
+	z-index: 415;
+}
+
+#u4468
+{
+	z-index: 416;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_palsahingin%20falls%20.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u4473
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 38px;
+	left: 527px;
+}
+
+#u4473:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4474-4
+{
+	z-index: 418;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#pamphletu4497
+{
+	z-index: 422;
+	width: 0.01px;
+	height: 391px;
+	padding-bottom: 209px;
+	position: fixed;
+	top: 34037px;
+	left: 698px;
+}
+
+#u4504
+{
+	z-index: 423;
+	width: 378px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 116px;
+	left: 102px;
+}
+
+#u4505
+{
+	position: absolute;
+	width: 378px;
+	height: 275px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u4472.PamphletThumbSelected,.ie #u4505
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4505:hover
+{
+	width: 378px;
+	height: 275px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u4505:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4505.PamphletThumbSelected
+{
+	width: 378px;
+	height: 275px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4500popup
+{
+	z-index: 425;
+}
+
+#u4501
+{
+	z-index: 426;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_pilitan%20cave.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u4506
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 38px;
+	left: 527px;
+}
+
+#u4506:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4507-4
+{
+	z-index: 428;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#u2214
+{
+	z-index: 114;
+	width: 864px;
+	background-color: transparent;
+	position: fixed;
+	top: 34067px;
+	left: -560px;
+}
+
+#u2221
+{
+	z-index: 116;
+	width: 826px;
+	background-color: transparent;
+	position: fixed;
+	top: 34164px;
+	left: 506px;
+}
+
+#u1659
+{
+	z-index: 20;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 36000px;
+	left: -617px;
+}
+
+#amadeo
+{
+	left: -391px;
+	margin-top: 3980px;
+	position: relative;
+}
+
+#ppamphletu4546
+{
+	width: 0.01px;
+	padding-bottom: 600px;
+	margin-left: 89px;
+	margin-top: -17px;
+}
+
+#pamphletu4546
+{
+	z-index: 432;
+	width: 0.01px;
+	height: 449px;
+	padding-bottom: 151px;
+	position: fixed;
+	top: 36035px;
+	left: 89px;
+}
+
+#u4553
+{
+	z-index: 433;
+	width: 630px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 235px;
+	left: 9px;
+}
+
+#u4554
+{
+	position: absolute;
+	width: 630px;
+	height: 214px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u4505.PamphletThumbSelected,.ie #u4554
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4554:hover
+{
+	width: 630px;
+	height: 214px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u4554:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4554.PamphletThumbSelected
+{
+	width: 630px;
+	height: 214px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4549popup
+{
+	z-index: 435;
+}
+
+#u4550
+{
+	z-index: 436;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_balite%20falls.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u4555
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 38px;
+	left: 527px;
+}
+
+#u4555:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4556-4
+{
+	z-index: 438;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#pamphletu4579
+{
+	z-index: 442;
+	width: 0.01px;
+	height: 508px;
+	padding-bottom: 92px;
+	position: fixed;
+	top: 36035px;
+	left: 740px;
+}
+
+#u4586
+{
+	z-index: 443;
+	width: 525px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 284px;
+	left: 98px;
+}
+
+#u4587
+{
+	position: absolute;
+	width: 525px;
+	height: 224px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u4554.PamphletThumbSelected,.ie #u4587
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4587:hover
+{
+	width: 525px;
+	height: 224px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u4587:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4587.PamphletThumbSelected
+{
+	width: 525px;
+	height: 224px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4582popup
+{
+	z-index: 445;
+}
+
+#u4583
+{
+	z-index: 446;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_pahimis%20coffee%20festival%20.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u4588
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 38px;
+	left: 527px;
+}
+
+#u4588:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4589-4
+{
+	z-index: 448;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#u2236
+{
+	z-index: 118;
+	width: 864px;
+	background-color: transparent;
+	position: fixed;
+	top: 36095px;
+	left: -137px;
+}
+
+#u2903
+{
+	z-index: 146;
+	width: 391px;
+	background-color: transparent;
+	position: fixed;
+	top: 36120px;
+	left: -391px;
+}
+
+#u2244
+{
+	z-index: 120;
+	width: 623px;
+	background-color: transparent;
+	position: fixed;
+	top: 36187px;
+	left: 759px;
+}
+
+#u1652
+{
+	z-index: 32;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 38000px;
+	left: -617px;
+}
+
+#tagaytay
+{
+	left: -563px;
+	margin-top: 1399px;
+	position: relative;
+}
+
+#pamphletu4628
+{
+	z-index: 452;
+	width: 0.01px;
+	height: 446px;
+	padding-bottom: 154px;
+	position: fixed;
+	top: 38036px;
+	left: 5px;
+}
+
+#u4635
+{
+	z-index: 453;
+	width: 883px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 156px;
+}
+
+#u4636
+{
+	position: absolute;
+	width: 883px;
+	height: 290px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u4587.PamphletThumbSelected,.ie #u4636
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4636:hover
+{
+	width: 883px;
+	height: 290px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u4636:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4636.PamphletThumbSelected
+{
+	width: 883px;
+	height: 290px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4631
+{
+	position: absolute;
+	width: 600px;
+	background-color: transparent;
+	left: 129px;
+}
+
+#u4631popup
+{
+	z-index: 455;
+}
+
+#u4632
+{
+	z-index: 456;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_people-s%20park.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u4637
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 39px;
+	left: 655px;
+}
+
+#u4637:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4638-4
+{
+	z-index: 458;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#u2256
+{
+	z-index: 122;
+	width: 1872px;
+	background-color: transparent;
+	position: fixed;
+	top: 38099px;
+	left: -552px;
+}
+
+#u3029
+{
+	z-index: 182;
+	width: 429px;
+	background-color: transparent;
+	position: fixed;
+	top: 38120px;
+	left: -617px;
+}
+
+#u1645
+{
+	z-index: 42;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 40000px;
+	left: -617px;
+}
+
+#u2264
+{
+	z-index: 124;
+	width: 1872px;
+	background-color: transparent;
+	position: fixed;
+	top: 40033px;
+	left: -672px;
+}
+
+#pamphletu4669
+{
+	z-index: 462;
+	width: 0.01px;
+	height: 463px;
+	padding-bottom: 137px;
+	position: fixed;
+	top: 40033px;
+	left: -252px;
+}
+
+#u4676
+{
+	z-index: 463;
+	width: 900px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 45px;
+}
+
+#u4677
+{
+	position: absolute;
+	width: 900px;
+	height: 418px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u4636.PamphletThumbSelected,.ie #u4677
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4677:hover
+{
+	width: 900px;
+	height: 418px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u4677:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4677.PamphletThumbSelected
+{
+	width: 900px;
+	height: 418px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4672
+{
+	position: absolute;
+	width: 600px;
+	background-color: transparent;
+	left: 125px;
+}
+
+#u4672popup
+{
+	z-index: 465;
+}
+
+#u4673
+{
+	z-index: 466;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_skyranch.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u4678
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 39px;
+	left: 651px;
+}
+
+#u4678:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4679-4
+{
+	z-index: 468;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#mendez
+{
+	margin-left: 1030px;
+	margin-top: 1981px;
+	position: relative;
+}
+
+#u2994
+{
+	z-index: 172;
+	width: 354px;
+	background-color: transparent;
+	position: fixed;
+	top: 40058px;
+	left: 1030px;
+}
+
+#u1638
+{
+	z-index: 58;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 42000px;
+	left: -617px;
+}
+
+#u3152
+{
+	z-index: 68;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 41999px;
+	left: -617px;
+}
+
+#pamphletu4710
+{
+	z-index: 472;
+	width: 0.01px;
+	height: 451px;
+	padding-bottom: 149px;
+	position: fixed;
+	top: 42034px;
+	left: -464px;
+}
+
+#u4717
+{
+	z-index: 473;
+	width: 661px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 299px;
+}
+
+#u4718
+{
+	position: absolute;
+	width: 661px;
+	height: 152px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u4677.PamphletThumbSelected,.ie #u4718
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4718:hover
+{
+	width: 661px;
+	height: 152px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u4718:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4718.PamphletThumbSelected
+{
+	width: 661px;
+	height: 152px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4036,#u4713
+{
+	position: absolute;
+	width: 600px;
+	background-color: transparent;
+	left: 18px;
+}
+
+#u4713popup
+{
+	z-index: 475;
+}
+
+#u4714
+{
+	z-index: 476;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_paradizoo.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u4719
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 38px;
+	left: 545px;
+}
+
+#u4719:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4720-4
+{
+	z-index: 478;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#alfonso
+{
+	margin-left: 451px;
+	margin-top: 1980px;
+	position: relative;
+}
+
+#pamphletu4759
+{
+	z-index: 482;
+	width: 0.01px;
+	height: 446px;
+	padding-bottom: 154px;
+	position: fixed;
+	top: 42034px;
+	left: 758px;
+}
+
+#u4766
+{
+	z-index: 483;
+	width: 372px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 171px;
+	left: 156px;
+}
+
+#u4767
+{
+	position: absolute;
+	width: 372px;
+	height: 275px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u4718.PamphletThumbSelected,.ie #u4767
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4767:hover
+{
+	width: 372px;
+	height: 275px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u4767:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u4767.PamphletThumbSelected
+{
+	width: 372px;
+	height: 275px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4762popup
+{
+	z-index: 485;
+}
+
+#u4763
+{
+	z-index: 486;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_saluysoy%20falls%20and%20spring.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u4768
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 38px;
+	left: 527px;
+}
+
+#u4768:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4769-4
+{
+	z-index: 488;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#u2895
+{
+	z-index: 144;
+	width: 413px;
+	background-color: transparent;
+	position: fixed;
+	top: 42060px;
+	left: 446px;
+}
+
+#u2276
+{
+	z-index: 126;
+	width: 864px;
+	background-color: transparent;
+	position: fixed;
+	top: 42103px;
+	left: -569px;
+}
+
+#u2286
+{
+	z-index: 128;
+	width: 864px;
+	background-color: transparent;
+	position: fixed;
+	top: 42103px;
+	left: 670px;
+}
+
+#u1701
+{
+	z-index: 52;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 44000px;
+	left: -617px;
+}
+
+#pamphletu5384
+{
+	z-index: 502;
+	width: 0.01px;
+	height: 512px;
+	padding-bottom: 88px;
+	position: fixed;
+	top: 44036px;
+	left: -546px;
+}
+
+#u5391
+{
+	z-index: 503;
+	width: 582px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 326px;
+}
+
+#u5392
+{
+	position: absolute;
+	width: 582px;
+	height: 186px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u4767.PamphletThumbSelected,.ie #u5392
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u5392:hover
+{
+	width: 582px;
+	height: 186px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u5392:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u5392.PamphletThumbSelected
+{
+	width: 582px;
+	height: 186px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u5387popup
+{
+	z-index: 505;
+}
+
+#u5388
+{
+	z-index: 506;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_sanghiyang%20festival.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u5393
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 39px;
+	left: 527px;
+}
+
+#u5393:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u5394-4
+{
+	z-index: 508;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#u2938
+{
+	z-index: 156;
+	width: 513px;
+	background-color: transparent;
+	position: fixed;
+	top: 44032px;
+	left: 197px;
+}
+
+#emilio
+{
+	margin-left: 254px;
+	margin-top: 1983px;
+	position: relative;
+}
+
+#pamphletu5343
+{
+	z-index: 492;
+	width: 0.01px;
+	height: 495px;
+	padding-bottom: 105px;
+	position: fixed;
+	top: 44036px;
+	left: 720px;
+}
+
+#u5350
+{
+	z-index: 493;
+	width: 378px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 220px;
+	left: 80px;
+}
+
+#u5351
+{
+	position: absolute;
+	width: 378px;
+	height: 275px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u5392.PamphletThumbSelected,.ie #u5351
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u5351:hover
+{
+	width: 378px;
+	height: 275px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u5351:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u5351.PamphletThumbSelected
+{
+	width: 378px;
+	height: 275px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u5346popup
+{
+	z-index: 495;
+}
+
+#u5347
+{
+	z-index: 496;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_malibiclibic%20falls.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u5352
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 32px;
+	left: 527px;
+}
+
+#u5352:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u5353-4
+{
+	z-index: 498;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#u2306
+{
+	z-index: 132;
+	width: 864px;
+	background-color: transparent;
+	position: fixed;
+	top: 44089px;
+	left: 572px;
+}
+
+#u2294
+{
+	z-index: 130;
+	width: 691px;
+	background-color: transparent;
+	position: fixed;
+	top: 44175px;
+	left: -604px;
+}
+
+#u1694
+{
+	z-index: 22;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 46000px;
+	left: -617px;
+}
+
+#pamphletu5425
+{
+	z-index: 512;
+	width: 0.01px;
+	height: 445px;
+	padding-bottom: 155px;
+	position: fixed;
+	top: 46034px;
+	left: -68px;
+}
+
+#u5432
+{
+	z-index: 513;
+	width: 521px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 311px;
+	left: 20px;
+}
+
+#u5433
+{
+	position: absolute;
+	width: 521px;
+	height: 134px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u5351.PamphletThumbSelected,.ie #u5433
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u5433:hover
+{
+	width: 521px;
+	height: 134px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u5433:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u5433.PamphletThumbSelected
+{
+	width: 521px;
+	height: 134px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u5428popup
+{
+	z-index: 515;
+}
+
+#u5429
+{
+	z-index: 516;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_utod%20river%20and%20falls.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u5434
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 38px;
+	left: 527px;
+}
+
+#u5434:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u5435-4
+{
+	z-index: 518;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#pamphletu5458
+{
+	z-index: 522;
+	width: 0.01px;
+	height: 396px;
+	padding-bottom: 204px;
+	position: fixed;
+	top: 46034px;
+	left: 669px;
+}
+
+#u5465
+{
+	z-index: 523;
+	width: 685px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+}
+
+#u5466
+{
+	position: absolute;
+	width: 685px;
+	height: 389px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u5433.PamphletThumbSelected,.ie #u5466
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u5466:hover
+{
+	width: 685px;
+	height: 389px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u5466:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u5466.PamphletThumbSelected
+{
+	width: 685px;
+	height: 389px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u5461
+{
+	position: absolute;
+	width: 600px;
+	background-color: transparent;
+	left: 60px;
+}
+
+#u5461popup
+{
+	z-index: 525;
+}
+
+#u5462
+{
+	z-index: 526;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_mt%20marami.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u5467
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 38px;
+	left: 586px;
+}
+
+#u5467:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u5468-4
+{
+	z-index: 528;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#magallanes
+{
+	left: -521px;
+	margin-top: 1991px;
+	position: relative;
+}
+
+#u2324
+{
+	z-index: 136;
+	width: 864px;
+	background-color: transparent;
+	position: fixed;
+	top: 46041px;
+	left: 546px;
+}
+
+#u2980
+{
+	z-index: 168;
+	width: 593px;
+	background-color: transparent;
+	position: fixed;
+	top: 46070px;
+	left: -617px;
+}
+
+#u2316
+{
+	z-index: 134;
+	width: 864px;
+	background-color: transparent;
+	position: fixed;
+	top: 46105px;
+	left: -234px;
+}
+
+#u1687
+{
+	z-index: 34;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 48000px;
+	left: -617px;
+}
+
+#u2336
+{
+	z-index: 138;
+	width: 1628px;
+	background-color: transparent;
+	position: fixed;
+	top: 48003px;
+	left: -294px;
+}
+
+#pamphletu5491
+{
+	z-index: 532;
+	width: 0.01px;
+	height: 379px;
+	padding-bottom: 221px;
+	position: fixed;
+	top: 48034px;
+	left: -392px;
+}
+
+#u5498
+{
+	z-index: 533;
+	width: 378px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 56px;
+	left: 310px;
+}
+
+#u5499
+{
+	position: absolute;
+	width: 378px;
+	height: 323px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u5466.PamphletThumbSelected,.ie #u5499
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u5499:hover
+{
+	width: 378px;
+	height: 323px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u5499:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u5499.PamphletThumbSelected
+{
+	width: 378px;
+	height: 323px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u5494popup
+{
+	z-index: 535;
+}
+
+#u5495
+{
+	z-index: 536;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_mount%20palay-palay%20and%20mataas%20na%20gulod%20.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u5500
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 39px;
+	left: 527px;
+}
+
+#u5500:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u5501-4
+{
+	z-index: 538;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#pamphletu5524
+{
+	z-index: 542;
+	width: 0.01px;
+	height: 379px;
+	padding-bottom: 221px;
+	position: fixed;
+	top: 48034px;
+	left: 197px;
+}
+
+#u5531
+{
+	z-index: 543;
+	width: 433px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 55px;
+	left: 98px;
+}
+
+#u5532
+{
+	position: absolute;
+	width: 433px;
+	height: 324px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u5499.PamphletThumbSelected,.ie #u5532
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u5532:hover
+{
+	width: 433px;
+	height: 324px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u5532:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u5532.PamphletThumbSelected
+{
+	width: 433px;
+	height: 324px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u5527popup
+{
+	z-index: 545;
+}
+
+#u5528
+{
+	z-index: 546;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_mt%20pico%20de%20loro%20.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u5533
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 38px;
+	left: 527px;
+}
+
+#u5533:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u5534-4
+{
+	z-index: 548;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#pamphletu5557
+{
+	z-index: 552;
+	width: 0.01px;
+	height: 385px;
+	padding-bottom: 215px;
+	position: fixed;
+	top: 48034px;
+	left: 768px;
+}
+
+#u5564
+{
+	z-index: 553;
+	width: 378px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 55px;
+}
+
+#u5565
+{
+	position: absolute;
+	width: 378px;
+	height: 330px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u5532.PamphletThumbSelected,.ie #u5565
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u5565:hover
+{
+	width: 378px;
+	height: 330px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u5565:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u5565.PamphletThumbSelected
+{
+	width: 378px;
+	height: 330px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u5560
+{
+	position: absolute;
+	width: 600px;
+	background-color: transparent;
+	left: 16px;
+}
+
+#u5560popup
+{
+	z-index: 555;
+}
+
+#u5561
+{
+	z-index: 556;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_mount%20palay-palay%20and%20mataas%20na%20gulod%20.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u5566
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 38px;
+	left: 543px;
+}
+
+#u5566:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u5567-4
+{
+	z-index: 558;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#maragondon
+{
+	left: -519px;
+	margin-top: 1983px;
+	position: relative;
+}
+
+#u2987
+{
+	z-index: 170;
+	width: 632px;
+	background-color: transparent;
+	position: fixed;
+	top: 48062px;
+	left: -617px;
+}
+
+#u1680
+{
+	z-index: 44;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 50000px;
+	left: -617px;
+}
+
+#pamphletu5622
+{
+	z-index: 562;
+	width: 0.01px;
+	height: 464px;
+	padding-bottom: 136px;
+	position: fixed;
+	top: 50034px;
+	left: -547px;
+}
+
+#u5629
+{
+	z-index: 563;
+	width: 356px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 250px;
+	left: 144px;
+}
+
+#u5630
+{
+	position: absolute;
+	width: 356px;
+	height: 214px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u5565.PamphletThumbSelected,.ie #u5630
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u5630:hover
+{
+	width: 356px;
+	height: 214px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u5630:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u5630.PamphletThumbSelected
+{
+	width: 356px;
+	height: 214px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u5625popup
+{
+	z-index: 565;
+}
+
+#u5626
+{
+	z-index: 566;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_andres%20bonifacio%20.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u5631
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 39px;
+	left: 527px;
+}
+
+#u5631:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u5632-4
+{
+	z-index: 568;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#pamphletu5663
+{
+	z-index: 572;
+	width: 0.01px;
+	height: 438px;
+	padding-bottom: 162px;
+	position: fixed;
+	top: 50034px;
+	left: 721px;
+}
+
+#u5670
+{
+	z-index: 573;
+	width: 404px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 163px;
+	left: 67px;
+}
+
+#u5671
+{
+	position: absolute;
+	width: 404px;
+	height: 275px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u5630.PamphletThumbSelected,.ie #u5671
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u5671:hover
+{
+	width: 404px;
+	height: 275px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u5671:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u5671.PamphletThumbSelected
+{
+	width: 404px;
+	height: 275px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u5671.PamphletThumbSelected
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u6966,#u3375,#u3416,#u3431,#u3576,#u3583,#u3658,#u3732,#u3739,#u3961,#u4119,#u4192,#u4262,#u4344,#u4377,#u4426,#u4467,#u4500,#u4549,#u4582,#u4762,#u5387,#u5346,#u5428,#u5494,#u5527,#u5625,#u5666
+{
+	position: absolute;
+	width: 600px;
+	background-color: transparent;
+}
+
+#u5666popup
+{
+	z-index: 575;
+}
+
+#u5667
+{
+	z-index: 576;
+	width: 600px;
+	height: 600px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../images/infographic%20template%20copy_sta%20cruz%20parish%20church%20copy.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u5672
+{
+	position: absolute;
+	width: 30px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EA4835;
+	padding-bottom: 6px;
+	top: 39px;
+	left: 527px;
+}
+
+#u5672:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u6968:active,#u3332:active,#u3377:active,#u3418:active,#u3425:active,#u3496:active,#u3570:active,#u3585:active,#u3652:active,#u3726:active,#u3741:active,#u3808:active,#u3948:active,#u3963:active,#u4030:active,#u4112:active,#u4121:active,#u4194:active,#u4268:active,#u4309:active,#u4350:active,#u4383:active,#u4432:active,#u4473:active,#u4506:active,#u4555:active,#u4588:active,#u4637:active,#u4678:active,#u4719:active,#u4768:active,#u5393:active,#u5352:active,#u5434:active,#u5467:active,#u5500:active,#u5533:active,#u5566:active,#u5631:active,#u5672:active
+{
+	border-color: #6B6B6B;
+	background-color: #6B6B6B;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u5673-4
+{
+	z-index: 578;
+	width: 20px;
+	min-height: 20px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#u2354
+{
+	z-index: 140;
+	width: 864px;
+	background-color: transparent;
+	position: fixed;
+	top: 50041px;
+	left: -617px;
+}
+
+#ternate
+{
+	margin-left: 236px;
+	margin-top: 1981px;
+	position: relative;
+}
+
+#u2364
+{
+	z-index: 142;
+	width: 864px;
+	background-color: transparent;
+	position: fixed;
+	top: 50050px;
+	left: 551px;
+}
+
+#u3043
+{
+	z-index: 186;
+	width: 386px;
+	background-color: transparent;
+	position: fixed;
+	top: 50062px;
+	left: 222px;
+}
+
+#u1673
+{
+	z-index: 60;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 52000px;
+	left: -617px;
+}
+
+#u1771
+{
+	z-index: 54;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 54000px;
+	left: -617px;
+}
+
+#thanks
+{
+	margin-left: 374px;
+	margin-top: 3977px;
+	position: relative;
+}
+
+#u1764
+{
+	z-index: 24;
+	width: 2001px;
+	background-color: transparent;
+	position: fixed;
+	top: 56000px;
+	left: -617px;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 768px;
+}
+

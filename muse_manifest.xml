@@ -1,0 +1,128 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://Cavite-E.com" resolutions="1x" timestamp="1479955396023">
+  <folder name="css">
+    <file name="site_global.css" crc="12372185"/>
+    <file name="index.css" crc="4047557653" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
+    <file name="museutils.js" crc="3790713428" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index"/>
+    <file name="webpro.js" crc="329496574" ref="index"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="index"/>
+    <file name="touchswipe.js" crc="497316881" ref="index"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4219894366" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="carmona - circuit.png" crc="94346447" seo="true" ref="index"/>
+    <file name="bg-02.png" crc="193160556" seo="true" ref="index"/>
+    <file name="_logo cavite e-02.png" crc="4165180855" seo="true" ref="index"/>
+    <file name="navi car -recovered--01.png" crc="211833347" seo="true" ref="index"/>
+    <file name="read me-02.png" crc="64194857" seo="true" ref="index"/>
+    <file name="cavite e.png" crc="3910531282" ref="index"/>
+    <file name="menu_icon_04_white_3line-crop-u6383.png" crc="459573242" ref="index"/>
+    <file name="close_light.png" crc="126613487" seo="true" ref="index"/>
+    <file name="cavite city_np.png" crc="503673521" seo="true" ref="index"/>
+    <file name="all illustrations-10.png" crc="154225267" seo="true" ref="index"/>
+    <file name="infographic template copy_corregidor island.png" crc="506013452" ref="index"/>
+    <file name="infographic template copy_malinta tunnel.png" crc="3842172767" ref="index"/>
+    <file name="infographic template copy_belfry of recoletos church .png" crc="164670561" ref="index"/>
+    <file name="infographic template copy_tribunal ng noveleta.png" crc="202652106" ref="index"/>
+    <file name="noveleta - tribunal.png" crc="504382490" seo="true" ref="index"/>
+    <file name="cavite city - belfry.png" crc="204207071" seo="true" ref="index"/>
+    <file name="noveleta_np.png" crc="379582471" seo="true" ref="index"/>
+    <file name="infographic template copy_aguinaldo shrine.png" crc="3939981981" ref="index"/>
+    <file name="kawit - ae shrine.png" crc="223049052" seo="true" ref="index"/>
+    <file name="kawit_np.png" crc="3941608350" seo="true" ref="index"/>
+    <file name="bacoor_np.png" crc="526585306" seo="true" ref="index"/>
+    <file name="infographic template copy_bahay na tisa.png" crc="459519511" ref="index"/>
+    <file name="infographic template copy_st michael archangel parish church .png" crc="85172583" ref="index"/>
+    <file name="bacoor - st michael.png" crc="3893688709" seo="true" ref="index"/>
+    <file name="bacoor - bahay na tisa.png" crc="4137620969" seo="true" ref="index"/>
+    <file name="city-01.png" crc="492790093" seo="true" ref="index"/>
+    <file name="infographic template copy_our lady of the pillar.png" crc="398810485" ref="index"/>
+    <file name="dasmarinas_np.png" crc="3793262082" seo="true" ref="index"/>
+    <file name="imus_np.png" crc="143056521" seo="true" ref="index"/>
+    <file name="imus - cathedral.png" crc="4086513778" seo="true" ref="index"/>
+    <file name="infographic template copy_immaculate conception parish church.png" crc="528198459" ref="index"/>
+    <file name="infographic template copy_museo de la salle .png" crc="445480305" ref="index"/>
+    <file name="dasmarinas - immaculate.png" crc="4004532595" seo="true" ref="index"/>
+    <file name="dasmarinas - museo de la salle.png" crc="194844579" seo="true" ref="index"/>
+    <file name="general mariano alvarez_np.png" crc="4056963315" seo="true" ref="index"/>
+    <file name="infographic template copy_kabutenyo festival .png" crc="3964496715" ref="index"/>
+    <file name="all illustrations-14.png" crc="511516901" seo="true" ref="index"/>
+    <file name="bg-03.png" crc="4155853523" seo="true" ref="index"/>
+    <file name="infographic template copy_racing circuit.png" crc="3931969645" ref="index"/>
+    <file name="infographic template copy_paragliding.png" crc="3915500312" ref="index"/>
+    <file name="carmona - paragliding.png" crc="3976975308" seo="true" ref="index"/>
+    <file name="carmona_np.png" crc="279060243" seo="true" ref="index"/>
+    <file name="silang - ilog maria.png" crc="9185799" seo="true" ref="index"/>
+    <file name="general trias_np.png" crc="182418832" seo="true" ref="index"/>
+    <file name="infographic template copy_ilog maria honeybee farm.png" crc="497605149" ref="index"/>
+    <file name="silang_np.png" crc="3780920208" seo="true" ref="index"/>
+    <file name="infographic template copy_gbr museum.png" crc="251502720" ref="index"/>
+    <file name="infographic template copy_st francis of .png" crc="3955899950" ref="index"/>
+    <file name="gentri - st francis.png" crc="23889351" seo="true" ref="index"/>
+    <file name="gentri gbr museum.png" crc="117982527" seo="true" ref="index"/>
+    <file name="infographic template copy_tejeros convention .png" crc="3959487681" ref="index"/>
+    <file name="rosario_np.png" crc="299368581" seo="true" ref="index"/>
+    <file name="tanza_np.png" crc="3823270466" seo="true" ref="index"/>
+    <file name="rosario - tejero convention.png" crc="3810679604" seo="true" ref="index"/>
+    <file name="tanza - sta cruz.png" crc="4245135258" seo="true" ref="index"/>
+    <file name="infographic template copy_sta cruz parish church .png" crc="84981037" ref="index"/>
+    <file name="trece martires_np.png" crc="4107879350" seo="true" ref="index"/>
+    <file name="infographic template copy_cavite provincial .png" crc="4043817759" ref="index"/>
+    <file name="trece - capitol.png" crc="4156951195" seo="true" ref="index"/>
+    <file name="naic - diocesan shrine.png" crc="249501273" seo="true" ref="index"/>
+    <file name="infographic template copy_republic of cavite restaurant .png" crc="3913051215" ref="index"/>
+    <file name="infographic template copy_diocesan shrine of .png" crc="4267634140" ref="index"/>
+    <file name="trece - the republic.png" crc="223691915" seo="true" ref="index"/>
+    <file name="naic_np.png" crc="4291050498" seo="true" ref="index"/>
+    <file name="mountain-01.png" crc="14770604" seo="true" ref="index"/>
+    <file name="infographic template copy_malata cave.png" crc="3816445100" ref="index"/>
+    <file name="indang_np.png" crc="4229059953" seo="true" ref="index"/>
+    <file name="indang - matala cave.png" crc="344802857" seo="true" ref="index"/>
+    <file name="infographic template copy_palsahingin falls .png" crc="4015540723" ref="index"/>
+    <file name="infographic template copy_pilitan cave.png" crc="527139367" ref="index"/>
+    <file name="indang - palsahingin falls.png" crc="313474044" seo="true" ref="index"/>
+    <file name="indang - piitan cave.png" crc="3949591891" seo="true" ref="index"/>
+    <file name="infographic template copy_balite falls.png" crc="445434155" ref="index"/>
+    <file name="infographic template copy_pahimis coffee festival .png" crc="3792591705" ref="index"/>
+    <file name="amadeo - balite falls.png" crc="4142977295" seo="true" ref="index"/>
+    <file name="amadeo_np.png" crc="3885595601" seo="true" ref="index"/>
+    <file name="all illustrations-03.png" crc="4116060909" seo="true" ref="index"/>
+    <file name="infographic template copy_people-s park.png" crc="3904478469" ref="index"/>
+    <file name="tagaytay - peoples park.png" crc="305083671" seo="true" ref="index"/>
+    <file name="tagaytay_np.png" crc="3817696189" seo="true" ref="index"/>
+    <file name="tagaytay - sky ranch.png" crc="3880979983" seo="true" ref="index"/>
+    <file name="infographic template copy_skyranch.png" crc="4197206050" ref="index"/>
+    <file name="mendez_np.png" crc="528860737" seo="true" ref="index"/>
+    <file name="infographic template copy_paradizoo.png" crc="4202889814" ref="index"/>
+    <file name="infographic template copy_saluysoy falls and spring.png" crc="4283863688" ref="index"/>
+    <file name="alfonso_np.png" crc="4099378240" seo="true" ref="index"/>
+    <file name="mendez - paradizoo.png" crc="4009709257" seo="true" ref="index"/>
+    <file name="alfonso - saluysoy.png" crc="447719689" seo="true" ref="index"/>
+    <file name="infographic template copy_sanghiyang festival.png" crc="3987573679" ref="index"/>
+    <file name="general emilio aguinaldo_np.png" crc="4174430230" seo="true" ref="index"/>
+    <file name="infographic template copy_malibiclibic falls.png" crc="493251604" ref="index"/>
+    <file name="bailen - malibiclibic.png" crc="4161313514" seo="true" ref="index"/>
+    <file name="all illustrations-02.png" crc="330794653" seo="true" ref="index"/>
+    <file name="infographic template copy_utod river and falls.png" crc="429503660" ref="index"/>
+    <file name="infographic template copy_mt marami.png" crc="272435676" ref="index"/>
+    <file name="magallanes - mt marami.png" crc="358699833" seo="true" ref="index"/>
+    <file name="magallanes_np.png" crc="3806860103" seo="true" ref="index"/>
+    <file name="magallanes - utod river.png" crc="133173467" seo="true" ref="index"/>
+    <file name="maragondon -pico palay palay.png" crc="3846470268" seo="true" ref="index"/>
+    <file name="infographic template copy_mount palay-palay and mataas na gulod .png" crc="4006379388" ref="index"/>
+    <file name="infographic template copy_mt pico de loro .png" crc="137398212" ref="index"/>
+    <file name="maragondon_np.png" crc="225138684" seo="true" ref="index"/>
+    <file name="infographic template copy_andres bonifacio .png" crc="211220988" ref="index"/>
+    <file name="infographic template copy_sta cruz parish church copy.png" crc="3935648601" ref="index"/>
+    <file name="maragondon -bonifacio.png" crc="4286596804" seo="true" ref="index"/>
+    <file name="ternate - sto nino.png" crc="315987676" seo="true" ref="index"/>
+    <file name="ternate_np.png" crc="4123225780" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="154037013" seo="true" mt="1479955280287" redirect="true"/>
+</manifest>
